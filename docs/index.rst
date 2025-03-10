@@ -11,6 +11,8 @@ libyamlconf documentation
    :caption: Contents:
 
    usage
+   exec
+   files
    indices
 
 .. automodule:: libexec

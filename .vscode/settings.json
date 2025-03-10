@@ -1,6 +1,14 @@
 {
     "cSpell.words": [
-        "libyamlconf"
+        "libexec",
+        "FAKEROOT",
+        "resolv",
+        "mtab",
+        "sysfs",
+        "lowerdir",
+        "upperdir",
+        "arcname",
+        "metas"
     ],
     "editor.formatOnSave": true,
 	"[python]": {
